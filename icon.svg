@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
+  <!-- Strand mark: original double-helix icon (MIT, KE Studios). -->
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#58e6c9"/>
+      <stop offset="0.5" stop-color="#6aa6ff"/>
+      <stop offset="1" stop-color="#b181ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="32" height="32" rx="8" fill="#060a13"/>
+  <g stroke="url(#g)" stroke-width="2.2" stroke-linecap="round">
+    <path d="M16 3 C 23.5 6.5 23.5 12 16 16 C 8.5 20 8.5 25.5 16 29"/>
+    <path d="M16 3 C 8.5 6.5 8.5 12 16 16 C 23.5 20 23.5 25.5 16 29"/>
+    <line x1="11" y1="7.5" x2="21" y2="7.5" opacity="0.8"/>
+    <line x1="11" y1="11.5" x2="21" y2="11.5" opacity="0.6"/>
+    <line x1="11" y1="20.5" x2="21" y2="20.5" opacity="0.6"/>
+    <line x1="11" y1="24.5" x2="21" y2="24.5" opacity="0.8"/>
+  </g>
+</svg>
